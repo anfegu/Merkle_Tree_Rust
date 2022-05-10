@@ -1,0 +1,8 @@
+[package]
+name = "merkle-tree-crypto"
+version = "0.1.0"
+edition = "2021"
+authors = ["Felipe Gutierrez <dxandrum@gmail.com>"]
+
+[dependencies]
+sha2 = "0.10.2"
